@@ -7,11 +7,11 @@ This application uses the MVT architecture and allows a user to perform the foll
 - Delete a post
 - View all created post
 
-Features
+## Features
 - Django
 - Bootstrap
 
-Using the Application
+## Using the Application
 
 Outlined below are the steps to use this application:
 
@@ -32,5 +32,5 @@ python manage.py runserver
 Note: Ensure you are in the same directory that has the manage.py file
 
 
-- Step 5: Open link on your web browser
+- Step 5: Open link on your web browser: localhost/blog
 
